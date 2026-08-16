@@ -1,2 +1,2 @@
 # number-guessing-game
-A aimple number guessing game built using python.
+A simple number guessing game built using python.
